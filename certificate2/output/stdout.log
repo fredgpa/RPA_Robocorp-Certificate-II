@@ -1,0 +1,10 @@
+==============================================================================
+Tasks :: Creating a robot to order some robots                                
+==============================================================================
+Order Robots                                                          | PASS |
+------------------------------------------------------------------------------
+Tasks :: Creating a robot to order some robots                        | PASS |
+1 task, 1 passed, 0 failed
+==============================================================================
+Output:  /home/fred/robots/certificate2/output/output.xml
+Log:     /home/fred/robots/certificate2/output/log.html
